@@ -1,0 +1,15 @@
+../Core/Src/lms303dlhc.c:17:6:Error	8	static
+../Core/Src/lms303dlhc.c:22:16:I2Cx_ReadData	40	static
+../Core/Src/lms303dlhc.c:34:9:Accel_IO_Read	16	static
+../Core/Src/lms303dlhc.c:39:13:I2Cx_WriteData	40	static
+../Core/Src/lms303dlhc.c:49:9:Accel_IO_Write	16	static
+../Core/Src/lms303dlhc.c:54:6:Accel_GetXYZ	40	static
+../Core/Src/lms303dlhc.c:108:9:Accel_ReadID	16	static
+../Core/Src/lms303dlhc.c:115:6:Accel_ReadAcc	24	static
+../Core/Src/lms303dlhc.c:183:6:Mag_GetXYZ	24	static
+../Core/Src/lms303dlhc.c:201:6:AccelMag_Read	16	static
+../Core/Src/lms303dlhc.c:227:6:MagInit	24	static
+../Core/Src/lms303dlhc.c:238:6:AccInit	24	static
+../Core/Src/lms303dlhc.c:247:6:Accel_AccFilterConfig	24	static
+../Core/Src/lms303dlhc.c:256:6:Accel_Ini	16	static
+../Core/Src/lms303dlhc.c:278:6:AccelMag_Ini	16	static
